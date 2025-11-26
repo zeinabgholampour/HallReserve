@@ -1,4 +1,3 @@
-```mermaid
 graph TD
     User -->|Login| System
     User -->|ViewRooms| System
@@ -7,4 +6,3 @@ graph TD
     Staff -->|ApproveReservation| System
     Staff -->|RejectReservation| System
     Admin -->|ViewReports| System
-```
