@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ``` mermaid
 sequenceDiagram
     autonumber
