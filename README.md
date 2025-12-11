@@ -21,7 +21,7 @@
 
 ## مستندات
  - [تحلیل نیازمندی ها](docs/requirements.md)
- - [موارد کاربرد و سناریوها](docs/use_case.md)
+ - [موارد کاربرد و سناریوها](docs/usecase_diageram.md)
  - [طراحی سیستم](docs/architecture.md)
 
   ## برنامه زمانبندی
