@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     start@{shape: sm-circ, label: "شروع"} --> role{نقش کاربر؟}
 
